@@ -16,15 +16,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="Math-5B" />
+      <meta name="og:description" content="Shelwin's Calculus notes" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://us.123rf.com/450wm/sn333g/sn333g1805/sn333g180500361/102196052-education-and-science-outline-round-vector-illustration.jpg?ver=6" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="twitter:site:domain" content="math-5b.vercel.app" />
+      <meta name="twitter:url" content="math-5b.vercel.app" />
+      <meta name="og:title" content="Math-5B" />
       <meta name="og:image" content="https://us.123rf.com/450wm/sn333g/sn333g1805/sn333g180500361/102196052-education-and-science-outline-round-vector-illustration.jpg?ver=6" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="Shelwin's Calculus notes" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
