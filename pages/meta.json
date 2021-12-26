@@ -1,6 +1,9 @@
 {
-  "index": "Introduction",
+  "index": "About",
+  "Math-5A-review": "Math 5A review",
+  "chapter-6": "Chapter Six",
   "getting-started": "Getting Started",
   "api-reference": "API Reference",
   "examples": "Examples"
+
 }

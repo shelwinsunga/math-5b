@@ -1,12 +1,12 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  // github: 'https://github.com/shuding/nextra',
+  // docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Nextra',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Math-5B</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        Spring 2022
       </span>
     </>
   ),
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerEditLink: '',
+  footerText: <>MIT {new Date().getFullYear()} © Shelwin Sunga</>,
   unstable_faviconGlyph: '👋',
 }
