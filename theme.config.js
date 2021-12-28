@@ -1,7 +1,7 @@
 export default {
   // github: 'https://github.com/shuding/nextra',
   // docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Shelwin',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Math-5B</span>
@@ -25,7 +25,11 @@ export default {
       <meta name="og:title" content="Math-5B" />
       <meta name="og:image" content="https://us.123rf.com/450wm/sn333g/sn333g1805/sn333g180500361/102196052-education-and-science-outline-round-vector-illustration.jpg?ver=6" />
       <meta name="apple-mobile-web-app-title" content="Shelwin's Calculus notes" />
-      <link
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+      <link rel="manifest" href="/site.webmanifest"></link>
+      {/* <link
         rel="apple-touch-icon"
         sizes="180x180"
         href="/apple-icon-180x180.png"
@@ -53,7 +57,7 @@ export default {
         type="image/png"
         sizes="16x16"
         href="/favicon-16x16.png"
-      />
+      /> */}
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
@@ -61,7 +65,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: '',
-  footerText: <>MIT {new Date().getFullYear()} © Shelwin Sunga</>,
-  unstable_faviconGlyph: '👋',
+  footerEditLink: <a href="https://discord.gg/2JZ8rd6TeA">Join the Discord</a>,
+  footerText: <>MIT {new Date().getFullYear()} © Shelwin Sunga.</>,
+  unstable_faviconGlyph: '♞',
 }
