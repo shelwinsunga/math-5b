@@ -25,21 +25,9 @@ export const ProblemE = () => <InlineMath math={'\\ h\\left( x \\right) = {x^\\p
 export const SolutionE = () => <InlineMath math={'h\'\\left( x \\right) = \\pi {x^{\\pi  - 1}} - \\sqrt 2 {x^{\\sqrt 2  - 1}}'} />;
 
 
-export const ProblemF = () => <InlineMath math={'\\ h\\left( x \\right) = {x^\\pi } - {x^{\\sqrt 2 }}'} />;
-export const SolutionF = () => <InlineMath math={'h\'\\left( x \\right) = \\pi {x^{\\pi  - 1}} - \\sqrt 2 {x^{\\sqrt 2  - 1}}'} />;
+export const ProblemF = () => <InlineMath math={'\\ y = \\sqrt[3]{{{x^2}}}\\left( {2x - {x^2}} \\right)'} />;
+export const SolutionF = () => <InlineMath math={'\\\ y\' = \\frac{{10}}{3}{x^{\\frac{2}{3}}} - \\frac{8}{3}{x^{\\frac{5}{3}}}'} />;
 
 
-export const ProblemG = () => <InlineMath math={'\\ h\\left( x \\right) = {x^\\pi } - {x^{\\sqrt 2 }}'} />;
-export const SolutionG = () => <InlineMath math={'h\'\\left( x \\right) = \\pi {x^{\\pi  - 1}} - \\sqrt 2 {x^{\\sqrt 2  - 1}}'} />;
-
-
-export const ProblemH = () => <InlineMath math={'\\ h\\left( x \\right) = {x^\\pi } - {x^{\\sqrt 2 }}'} />;
-export const SolutionH = () => <InlineMath math={'h\'\\left( x \\right) = \\pi {x^{\\pi  - 1}} - \\sqrt 2 {x^{\\sqrt 2  - 1}}'} />;
-
-
-
-
-
-
-
-
+export const ProblemG = () => <InlineMath math={'\\displaystyle h\\left( t \\right) = \\frac{{2{t^5} + {t^2} - 5}}{{{t^2}}}'} />;
+export const SolutionG = () => <InlineMath math={'h\'\\left( t \\right) = 6{t^2} + 10{t^{ - 3}}'} />;
