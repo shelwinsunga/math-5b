@@ -1,6 +1,6 @@
 export default {
-  // github: 'https://github.com/shuding/nextra',
-  // docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/shelwinsunga/math-5b',
+  docsRepositoryBase: 'https://github.com/shelwinsunga/math-5b',
   titleSuffix: ' – Shelwin',
   logo: (
     <>
